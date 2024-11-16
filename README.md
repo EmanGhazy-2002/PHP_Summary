@@ -1,8 +1,8 @@
-# PHP Summary 📘    
+# PHP Summary 📘  
 
 Welcome to the **PHP Summary** repository! This is a comprehensive guide to PHP essentials, structured to serve as a quick reference for beginners and experienced developers alike. The content is based on concepts learned, summarized, and organized in a Notion page, which you can access [here](https://www.notion.so/PHP-Summary-1293ec08c68c8026b39df42b11adac36). 
 
-## Table of Contents  
+## Table of Contents
 
 1. **Data Types** 🤔  
    Overview of different data types in PHP, including strings, integers, floats, arrays, and objects.
