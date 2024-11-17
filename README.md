@@ -16,7 +16,7 @@ Welcome to the **PHP Summary** repository! This is a comprehensive guide to PHP 
 4. **Control Structures** ❔  
    Detailed coverage of control structures, including `if`, `else`, `elseif`, and `switch` statements.
 
-5. **Loops** ♾️  
+5. **Loops** ♾️      
    Learn about `for`, `while`, `do-while`, and `foreach` loops, with practical examples for each.
 
 6. **Include and Require** 🔗  
