@@ -4,7 +4,7 @@ Welcome to the **PHP Summary** repository! This is a comprehensive guide to PHP 
 
 ## Table of Contents
 
-1. **Data Types** 🤔  
+1. **Data Types** 🤔     
    Overview of different data types in PHP, including strings, integers, floats, arrays, and objects.
 
 2. **Variables & Constants** 🧐  
